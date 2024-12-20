@@ -8421,7 +8421,7 @@ h1, h2, h3, h4, h5,
 .slider-text h2 {
   font-weight: 800; }
   .slider-text h2 span {
-    color: #333333;
+    color: #0066cc;
     text-decoration: underline; }
 
 .slider-text p {
@@ -8700,7 +8700,7 @@ h1, h2, h3, h4, h5,
     font-weight: 800;
     font-size: 30px;
     margin-bottom: 30px;
-    color: #333333; }
+    color: #0066cc; }
 
 .resume-wrap {
   width: 100%;
@@ -9209,6 +9209,14 @@ textarea.form-control {
     color: #fff; }
   .heading-section.heading-section-white p {
     color: rgba(255, 255, 255, 0.9); }
+
+#visionGenAI-section.subheading {
+  font-size: 30px;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 15px;
+  color: black;
+}
 
 .img,
 .blog-img,
